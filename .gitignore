@@ -1,0 +1,8 @@
+# Archives brutes des repos clonés (non versionnées — redondantes avec skills/)
+_staging/
+_repo/
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+*.swp
