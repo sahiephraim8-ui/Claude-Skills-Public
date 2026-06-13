@@ -1,6 +1,6 @@
 # Claude-Skills-Public
 
-Bibliothèque de **168 skills Claude** sélectionnés, audités et organisés — couvrant tous les domaines pro d'un founder : stratégie & C-level, sales & revenue, finance, marketing & growth, produit, opérations, recherche, data, design UI/UX, animation & 3D, méthodologie d'ingénierie, et productivité.
+Bibliothèque de **176 skills Claude** sélectionnés, audités et organisés — couvrant tous les domaines pro d'un founder : stratégie & C-level, sales & revenue, finance, marketing & growth, produit, opérations, recherche, data, design UI/UX, animation & 3D, automatisation n8n, méthodologie d'ingénierie, et productivité.
 
 > Backup versionné du stock de skills actifs (`~/.claude/skills/`). Chaque skill est un dossier `skills/<nom>/` contenant un `SKILL.md` (frontmatter `name` + `description`) et ses fichiers de support (assets/references/scripts).
 
@@ -26,6 +26,7 @@ Le skill devient actif automatiquement (Claude le déclenche selon sa `descripti
 | **Marketing** | `copywriting`, `marketing-psychology`, `content-humanizer`, `paid-ads`, `launch-strategy`, `x-twitter-growth`, `competitive-ads-extractor` |
 | **Produit & Recherche** | `product-strategist`, `product-discovery`, `competitive-teardown`, `jtbd`, `ux-researcher-designer`, `market-research`, `dossier`, `litreview`, `research-summarizer` |
 | **Méthodologie (Superpowers)** | `brainstorming`, `systematic-debugging`, `root-cause-tracing`, `writing-plans`, `test-driven-development`, `dispatching-parallel-agents`, `when-stuck` |
+| **Automatisation n8n** | `n8n-workflow-patterns`, `n8n-node-configuration`, `n8n-expression-syntax`, `n8n-code-javascript`, `n8n-code-python`, `n8n-code-tool`, `n8n-mcp-tools-expert`, `n8n-validation-expert` |
 | **Data & Compliance** | `statistical-analyst`, `senior-data-scientist`, `data-quality-auditor`, `rag-architect`, `rag-eval`, `gdpr-audit-prep`, `soc2-audit-prep` |
 | **Productivité & Docs** | `capture`, `reflect`, `decision-toolkit`, `pdf-generation`, `tufte-report`, `meeting-analyzer`, `contract-and-proposal-writer` |
 
@@ -42,6 +43,7 @@ Ces skills proviennent de la communauté open-source Claude. Chaque dossier cons
 - [jiji262/claude-design-skill](https://github.com/jiji262/claude-design-skill)
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 - [glebis/claude-skills](https://github.com/glebis/claude-skills)
+- [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) — Romuald Czlonkowski (auteur de `n8n-mcp`)
 - [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills)
 
 Tous les crédits reviennent aux auteurs originaux. Ce dépôt est une collection curatée à usage personnel et de partage.
