@@ -1,6 +1,6 @@
 # Claude-Skills-Public
 
-Bibliothèque de **176 skills Claude** sélectionnés, audités et organisés — couvrant tous les domaines pro d'un founder : stratégie & C-level, sales & revenue, finance, marketing & growth, produit, opérations, recherche, data, design UI/UX, animation & 3D, automatisation n8n, méthodologie d'ingénierie, et productivité.
+Bibliothèque de **288 skills Claude** sélectionnés, audités et organisés — couvrant tous les domaines pro d'un founder : stratégie & C-level, sales & revenue, finance, crypto & trading, marketing & growth, produit, opérations, recherche, data, design UI/UX, animation & 3D, automatisation n8n, méthodologie d'ingénierie, et productivité.
 
 > Backup versionné du stock de skills actifs (`~/.claude/skills/`). Chaque skill est un dossier `skills/<nom>/` contenant un `SKILL.md` (frontmatter `name` + `description`) et ses fichiers de support (assets/references/scripts).
 
@@ -26,6 +26,8 @@ Le skill devient actif automatiquement (Claude le déclenche selon sa `descripti
 | **Marketing** | `copywriting`, `marketing-psychology`, `content-humanizer`, `paid-ads`, `launch-strategy`, `x-twitter-growth`, `competitive-ads-extractor` |
 | **Produit & Recherche** | `product-strategist`, `product-discovery`, `competitive-teardown`, `jtbd`, `ux-researcher-designer`, `market-research`, `dossier`, `litreview`, `research-summarizer` |
 | **Méthodologie (Superpowers)** | `brainstorming`, `systematic-debugging`, `root-cause-tracing`, `writing-plans`, `test-driven-development`, `dispatching-parallel-agents`, `when-stuck` |
+| **Crypto & on-chain** | `coingecko-api`, `dexscreener-api`, `whale-tracking`, `wallet-profiling`, `mev-analysis`, `dex-pool-analysis`, `impermanent-loss`, `yield-analysis`, `solana-rpc`, `pumpfun-mechanics`, `sybil-detection`, `copy-trading` |
+| **Trading & quant** | `backtest-expert`, `backtrader`, `vectorbt`, `ta-lib`, `pandas-ta`, `mean-reversion`, `regime-detection`, `kelly-criterion`, `position-sizing`, `risk-management`, `volatility-modeling`, `options-pricing`, `walk-forward-validation`, `vcp-screener`, `canslim-screener`, `technical-analyst`, `portfolio-manager` |
 | **Automatisation n8n** | `n8n-workflow-patterns`, `n8n-node-configuration`, `n8n-expression-syntax`, `n8n-code-javascript`, `n8n-code-python`, `n8n-code-tool`, `n8n-mcp-tools-expert`, `n8n-validation-expert` |
 | **Data & Compliance** | `statistical-analyst`, `senior-data-scientist`, `data-quality-auditor`, `rag-architect`, `rag-eval`, `gdpr-audit-prep`, `soc2-audit-prep` |
 | **Productivité & Docs** | `capture`, `reflect`, `decision-toolkit`, `pdf-generation`, `tufte-report`, `meeting-analyzer`, `contract-and-proposal-writer` |
